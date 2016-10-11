@@ -1,1 +1,2 @@
 # hello-world
+I'm a sophomore at Stanford, currently undeclared, but considering EE, CS, Matsci, Ephys, and chemE. I am interested in the intersection of matsci, CS, and EE (hardware specifically). I am a member of the outreach team for Stanford's Girls Teaching Girls to Code. I manage weekly workshops in East Palo Alto to help close the gender gap in tech with an intersectional feminist approach.
